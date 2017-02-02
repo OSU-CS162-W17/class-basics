@@ -1,5 +1,6 @@
 /*
- * This is a small application to demonstrate how to use our Point class.
+ * This is a small application to demonstrate how class basics work using our
+ * Point class.
  */
 
 #include <iostream>
